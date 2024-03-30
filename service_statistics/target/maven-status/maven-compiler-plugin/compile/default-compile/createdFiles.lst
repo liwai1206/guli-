@@ -1,0 +1,9 @@
+com\atguigu\statisticsservice\StatisticsApplication.class
+com\atguigu\statisticsservice\schedule\ScheduledTask.class
+com\atguigu\statisticsservice\service\impl\StatisticsDailyServiceImpl.class
+com\atguigu\statisticsservice\mapper\StatisticsDailyMapper.class
+com\atguigu\statisticsservice\utils\DateUtils.class
+com\atguigu\statisticsservice\client\UcenterClient.class
+com\atguigu\statisticsservice\controller\StatisticsDailyController.class
+com\atguigu\statisticsservice\service\StatisticsDailyService.class
+com\atguigu\statisticsservice\entity\StatisticsDaily.class

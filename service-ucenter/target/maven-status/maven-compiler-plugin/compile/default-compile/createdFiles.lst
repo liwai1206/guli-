@@ -1,0 +1,12 @@
+com\atguigu\ucenterservice\service\impl\UcenterMemberServiceImpl.class
+com\atguigu\ucenterservice\controller\UcenterMemberController.class
+com\atguigu\ucenterservice\util\HttpClientUtils$2.class
+com\atguigu\ucenterservice\util\HttpClientUtils$1.class
+com\atguigu\ucenterservice\UcenterApplication.class
+com\atguigu\ucenterservice\controller\WxApiController.class
+com\atguigu\ucenterservice\service\UcenterMemberService.class
+com\atguigu\ucenterservice\entity\vo\RegisterVo.class
+com\atguigu\ucenterservice\mapper\UcenterMemberMapper.class
+com\atguigu\ucenterservice\util\HttpClientUtils.class
+com\atguigu\ucenterservice\entity\UcenterMember.class
+com\atguigu\ucenterservice\util\ConstantPropertiesUtil.class
